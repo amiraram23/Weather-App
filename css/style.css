@@ -1,0 +1,93 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #ffe9f3, #fff9d9);
+  color: #555;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #ff80ab, #edd239) !important;
+}
+
+.navbar-brand,
+.nav-link {
+  font-weight: bold;
+  color: #fff !important;
+}
+.nav-link.active {
+  color: #d81b60 !important;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #ffe9f3 !important;
+}
+
+h2{
+  color: #ff80ab ;
+  font-weight: 400;
+}
+
+.weather-card {
+  border-radius: 20px;
+  box-shadow: 0px 6px 15px rgba(255, 64, 129, 0.15);
+  background: linear-gradient(135deg, #ffe9f3, #edd239);
+  transition: transform 0.3s ease;
+  padding: 20px;
+}
+
+.weather-card:hover {
+  transform: translateY(-5px);
+}
+
+.card-day {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #d81b60;
+}
+
+.weather-icon {
+  color: #ff80ab !important;
+}
+
+.card-temp {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #d81b60;
+}
+
+
+.input-group .form-control {
+  border-radius: 30px 0 0 30px;
+}
+
+.input-group .btn {
+  border-radius: 0 30px 30px 0;
+}
+
+.btn-primary {
+  background-color: #ff80ab;
+  border: none;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #ff4081;
+}
+
+.weather-icon {
+  color: #ff80ab !important;
+}
+
+
+footer {
+  background: linear-gradient(135deg, #ff80ab, #edd239);
+  color: #fff;
+}
+
+.social-icons a {
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #ffe9f3 !important;
+}
