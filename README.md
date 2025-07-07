@@ -1,4 +1,4 @@
-## ![Weather Website Screenshot](/snap of App.jpg)
+## ![Weather Website Screenshot](./snap-of-App.jpg)
 
 
 A simple and stylish weather application built with HTML, CSS, JavaScript, and the WeatherAPI. This project allows users to check the current weather of any city in real time.
