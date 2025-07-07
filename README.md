@@ -1,3 +1,4 @@
+## ![Weather Website Screenshot](/snap of App.jpg)
 
 
 A simple and stylish weather application built with HTML, CSS, JavaScript, and the WeatherAPI. This project allows users to check the current weather of any city in real time.
@@ -5,7 +6,7 @@ A simple and stylish weather application built with HTML, CSS, JavaScript, and t
 Live Demo 👉 [Click here to try the Weather App](https://amiraram23.github.io/Weather-App/)
 
 
-** Features:
+## ** Features:
 
 🌍 Search for any city in the world
 
@@ -17,14 +18,14 @@ Live Demo 👉 [Click here to try the Weather App](https://amiraram23.github.io/
 
 ⚡ Fast and responsive design using Bootstrap
 
-🛠️ Built With
+## 🛠️ Built With
  1.HTML5
  2. CSS3
  3. JavaScript (Vanilla JS)
  4. Bootstrap
  5. WeatherAPI.com for real-time weather data
 
-📦 How to Use
+## 📦 How to Use
 1. Clone the repository:
 git clone https://github.com/amiraram23/Weather-App.git
 
@@ -32,7 +33,7 @@ git clone https://github.com/amiraram23/Weather-App.git
 
 🔑 Note: You may replace the API key in the JavaScript file (script.js) with your own from WeatherAPI.com if needed.
 
-📁 Project Structure
+## 📁 Project Structure
 Weather-App/
 ├── index.html
 ├── css/
@@ -42,13 +43,13 @@ Weather-App/
 └── assets/
     └── icons/images (if used)
 
-📌 Future Improvements
+## 📌 Future Improvements
 - Add forecast for upcoming days
 - Support for different languages and units
 - Dark mode toggle
 - Mobile optimizations
 
-🙋‍♀️ Author: 
+## 🙋‍♀️ Author: 
  Amira Ramadan
 🌐 [LinkedIn](www.linkedin.com/in/amira-ramadan-gisdeveloper)
 
