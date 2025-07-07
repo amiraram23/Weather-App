@@ -1,4 +1,5 @@
-## ![Weather Website Screenshot](./snap-of-App.jpg)
+## 🌦️ Weather App
+![Weather Website Screenshot](./snap-of-App.jpg)
 
 
 A simple and stylish weather application built with HTML, CSS, JavaScript, and the WeatherAPI. This project allows users to check the current weather of any city in real time.
@@ -19,7 +20,7 @@ Live Demo 👉 [Click here to try the Weather App](https://amiraram23.github.io/
 ⚡ Fast and responsive design using Bootstrap
 
 ## 🛠️ Built With
- 1.HTML5
+ 1. HTML5
  2. CSS3
  3. JavaScript (Vanilla JS)
  4. Bootstrap
